@@ -1,0 +1,28 @@
+body{
+    background-color: wheat;
+}
+.container{
+    width:400px;
+    margin: 0 auto;
+}
+.default{
+    background-color: white;
+    padding:20px;
+}
+.search{
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.box{
+    border:1px solid black;
+    padding: 5px;
+}
+input{
+    display:block;
+    margin:10px 0;
+}
+button{
+    display:block;
+    margin:10px 0;
+}
